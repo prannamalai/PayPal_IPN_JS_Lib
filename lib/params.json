@@ -1,6 +1,0 @@
-{
-"payer":"first_name,last_name,payer_business_name,payer_email,payer_id,contact_phone",
-"payerAddress":"address_country,address_city,address_country_code,address_state,address_status,address_street,address_zip",
-"payment":"auth_amount,auth_exp,auth_id,auth_status,echeck_time_processed,exchange_rate,invoice,mc_currency,mc_fee,mc_gross,mc_handling,mc_shipping,memo,num_cart_items,payer_status,payment_date,payment_status,payment_type,pending_reason,protection_eligibility,quantity,reason_code,remaining_settle,settle_amount,settle_currency,shipping,shipping_method,tax,transaction_entity",
-"transaction":"business,custom,charset,ipn_track_id,ipn_track_id,parent_txn_id,receipt_id,receiver_email,receiver_id,resend,residence_country,test_ipn,txn_id,txn_type,verify_sign"
-}
